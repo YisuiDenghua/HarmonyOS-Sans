@@ -1,2 +1,2 @@
 # HarmonyOS-Sans
-鸿蒙os字体
+Fonts from Huawei HarmonyOS
